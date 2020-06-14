@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ShuhaoZhangTony/streamingLegder/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ShuhaoZhangTony/streamingLegder/static/js/main.24f92047.chunk.js",
-    "main.js.map": "/ShuhaoZhangTony/streamingLegder/static/js/main.24f92047.chunk.js.map",
-    "runtime-main.js": "/ShuhaoZhangTony/streamingLegder/static/js/runtime-main.1c3e1d6c.js",
-    "runtime-main.js.map": "/ShuhaoZhangTony/streamingLegder/static/js/runtime-main.1c3e1d6c.js.map",
-    "static/js/2.5584ac59.chunk.js": "/ShuhaoZhangTony/streamingLegder/static/js/2.5584ac59.chunk.js",
-    "static/js/2.5584ac59.chunk.js.map": "/ShuhaoZhangTony/streamingLegder/static/js/2.5584ac59.chunk.js.map",
-    "index.html": "/ShuhaoZhangTony/streamingLegder/index.html",
-    "precache-manifest.ddd275e1a4ffb27e2430af92aa81288f.js": "/ShuhaoZhangTony/streamingLegder/precache-manifest.ddd275e1a4ffb27e2430af92aa81288f.js",
-    "service-worker.js": "/ShuhaoZhangTony/streamingLegder/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ShuhaoZhangTony/streamingLegder/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5584ac59.chunk.js.LICENSE.txt": "/ShuhaoZhangTony/streamingLegder/static/js/2.5584ac59.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ShuhaoZhangTony/streamingLegder/static/media/logo.5d5d9eef.svg"
+    "main.css": "/ShuhaoZhangTony/streaming_legder/static/css/main.5f361e03.chunk.css",
+    "main.js": "/ShuhaoZhangTony/streaming_legder/static/js/main.b32816ed.chunk.js",
+    "main.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/main.b32816ed.chunk.js.map",
+    "runtime-main.js": "/ShuhaoZhangTony/streaming_legder/static/js/runtime-main.7611c937.js",
+    "runtime-main.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/runtime-main.7611c937.js.map",
+    "static/js/2.5584ac59.chunk.js": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js",
+    "static/js/2.5584ac59.chunk.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js.map",
+    "index.html": "/ShuhaoZhangTony/streaming_legder/index.html",
+    "precache-manifest.54bff3dca695f61566a7d3d49137eb91.js": "/ShuhaoZhangTony/streaming_legder/precache-manifest.54bff3dca695f61566a7d3d49137eb91.js",
+    "service-worker.js": "/ShuhaoZhangTony/streaming_legder/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/ShuhaoZhangTony/streaming_legder/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5584ac59.chunk.js.LICENSE.txt": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/ShuhaoZhangTony/streaming_legder/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.1c3e1d6c.js",
+    "static/js/runtime-main.7611c937.js",
     "static/js/2.5584ac59.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.24f92047.chunk.js"
+    "static/js/main.b32816ed.chunk.js"
   ]
 }
