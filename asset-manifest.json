@@ -1,23 +1,23 @@
 {
   "files": {
-    "main.css": "/ShuhaoZhangTony/streaming_legder/static/css/main.5f361e03.chunk.css",
-    "main.js": "/ShuhaoZhangTony/streaming_legder/static/js/main.b32816ed.chunk.js",
-    "main.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/main.b32816ed.chunk.js.map",
-    "runtime-main.js": "/ShuhaoZhangTony/streaming_legder/static/js/runtime-main.7611c937.js",
-    "runtime-main.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/runtime-main.7611c937.js.map",
-    "static/js/2.5584ac59.chunk.js": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js",
-    "static/js/2.5584ac59.chunk.js.map": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js.map",
-    "index.html": "/ShuhaoZhangTony/streaming_legder/index.html",
-    "precache-manifest.54bff3dca695f61566a7d3d49137eb91.js": "/ShuhaoZhangTony/streaming_legder/precache-manifest.54bff3dca695f61566a7d3d49137eb91.js",
-    "service-worker.js": "/ShuhaoZhangTony/streaming_legder/service-worker.js",
-    "static/css/main.5f361e03.chunk.css.map": "/ShuhaoZhangTony/streaming_legder/static/css/main.5f361e03.chunk.css.map",
-    "static/js/2.5584ac59.chunk.js.LICENSE.txt": "/ShuhaoZhangTony/streaming_legder/static/js/2.5584ac59.chunk.js.LICENSE.txt",
-    "static/media/logo.svg": "/ShuhaoZhangTony/streaming_legder/static/media/logo.5d5d9eef.svg"
+    "main.css": "/streaming_legder/static/css/main.5f361e03.chunk.css",
+    "main.js": "/streaming_legder/static/js/main.8f4de395.chunk.js",
+    "main.js.map": "/streaming_legder/static/js/main.8f4de395.chunk.js.map",
+    "runtime-main.js": "/streaming_legder/static/js/runtime-main.ef4d1f64.js",
+    "runtime-main.js.map": "/streaming_legder/static/js/runtime-main.ef4d1f64.js.map",
+    "static/js/2.5584ac59.chunk.js": "/streaming_legder/static/js/2.5584ac59.chunk.js",
+    "static/js/2.5584ac59.chunk.js.map": "/streaming_legder/static/js/2.5584ac59.chunk.js.map",
+    "index.html": "/streaming_legder/index.html",
+    "precache-manifest.40cdbb3e21d45a6123c19affdd537230.js": "/streaming_legder/precache-manifest.40cdbb3e21d45a6123c19affdd537230.js",
+    "service-worker.js": "/streaming_legder/service-worker.js",
+    "static/css/main.5f361e03.chunk.css.map": "/streaming_legder/static/css/main.5f361e03.chunk.css.map",
+    "static/js/2.5584ac59.chunk.js.LICENSE.txt": "/streaming_legder/static/js/2.5584ac59.chunk.js.LICENSE.txt",
+    "static/media/logo.svg": "/streaming_legder/static/media/logo.5d5d9eef.svg"
   },
   "entrypoints": [
-    "static/js/runtime-main.7611c937.js",
+    "static/js/runtime-main.ef4d1f64.js",
     "static/js/2.5584ac59.chunk.js",
     "static/css/main.5f361e03.chunk.css",
-    "static/js/main.b32816ed.chunk.js"
+    "static/js/main.8f4de395.chunk.js"
   ]
 }
